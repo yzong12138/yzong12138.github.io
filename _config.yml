@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuxuan ZONG
+title                    : "Yuxuan ZONG"
 title_separator          : "-"
 name                     : &name "Yuxuan ZONG"
 description              : &description "Ph.D. candidate at Sorbonne University"
