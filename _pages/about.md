@@ -16,7 +16,7 @@ I am interested in information retrieval (IR) and natural language processing (N
 Publications
 ======
 
-I have authored several papers published in international or french-speaking proceeding, such as SIGIR, ECIR, CORIA. 
+I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, CORIA. 
 
 1. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**    
    **Yuxuan Zong**, Benjamin Piwowarski   
