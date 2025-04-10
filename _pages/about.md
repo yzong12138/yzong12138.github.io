@@ -66,7 +66,7 @@ Education
   - Master Exchange in Computer Science, EPFL, Switzerland
 
 * September 2017 - July 2022
-  - Engineer Diplome in Computer Engineering, INSA LYON, France
+  - Engineer Diploma in Computer Engineering, INSA LYON, France
 
 Experience
 ======
