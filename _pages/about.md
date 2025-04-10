@@ -71,16 +71,19 @@ Education
 Experience
 ======
 * March 2022 - August 2022
+  - Research Intern
   - Lab LIRIS, École Centrale de Lyon, France
   - Working on the data and study the state-of-the-art of 6D pose estimation
   - Supervisor: Liming Chen
   - [Report](https://yzong12138.github.io/files/PFE_6D.pdf)
 
 * June 2021 - August 2021
+  - Backend software development engineer
   - Departement TEG, Tencent, Shenzhen, China
   - Building configuration of the server, based on Python
 
 * June 2020 - August 2020
+  - Frontend software development engineer
   - Migu, Nanjing, China
   - Building a mobile application destinate at the companies.
 
