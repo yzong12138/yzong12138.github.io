@@ -13,26 +13,26 @@ I am interested in information retrieval (IR) and natural language processing (N
 
 [Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369)
 
-Publication
+Publications
 ======
 
 I have authored several papers published in international or french-speaking proceeding, such as SIGIR, ECIR, CORIA. 
 
-1. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**
-   **Yuxuan Zong**, Benjamin Piwowarski
-   **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
-   Code and Paper: Coming soon...
-2. **Structured representation for Information Retrieval**
-   **Yuxuan Zong**, Benjamin Piwowarski
-   **CORIA 2024**: COnférence en Recherche d'Informations et Applications
-   [pdf](https://hal.sorbonne-universite.fr/hal-04788243v1/document)
-3. **Simple Domain Adaptation for Sparse Retrievers**
-   Mathias Vast, **Yuxuan Zong**, Benjamin Piwowarski, Laure Soulier
-   **ECIR 2024**: The 46th European Conference on Information Retrieval
-   [pdf](https://arxiv.org/pdf/2401.11509v1) [code](https://git.isir.upmc.fr/mat_vast/cross_domain_adaptation)
-4. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**
-   **Yuxuan Zong**, Benjamin Piwowarski
-   **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+1. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**  
+   **Yuxuan Zong**, Benjamin Piwowarski 
+   **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 
+   Code and Paper: Coming soon... 
+2. **Structured representation for Information Retrieval**  
+   **Yuxuan Zong**, Benjamin Piwowarski 
+   **CORIA 2024**: COnférence en Recherche d'Informations et Applications 
+   [pdf](https://hal.sorbonne-universite.fr/hal-04788243v1/document)  
+3. **Simple Domain Adaptation for Sparse Retrievers** 
+   Mathias Vast, **Yuxuan Zong**, Benjamin Piwowarski, Laure Soulier  
+   **ECIR 2024**: The 46th European Conference on Information Retrieval 
+   [pdf](https://arxiv.org/pdf/2401.11509v1) [code](https://git.isir.upmc.fr/mat_vast/cross_domain_adaptation)  
+4. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**  
+   **Yuxuan Zong**, Benjamin Piwowarski 
+   **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval 
    [pdf](https://yzong12138.github.io/files/xpmir.pdf) [code](https://github.com/experimaestro/experimaestro-ir)
 
 Teaching
