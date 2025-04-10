@@ -63,7 +63,7 @@ Education
   - Supervisor: [Benjamin Piwowarski](https://www.piwowarski.fr/)
 
 * September 2021 - Febuary 2022
-  - Master Exchange, Computer Science, EPFL, Switzerland
+  - Master Exchange in Computer Science, EPFL, Switzerland
 
 * September 2017 - July 2022
   - Engineer Diplome in Computer Engineering, INSA LYON, France
