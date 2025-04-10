@@ -71,7 +71,7 @@ Education
 Experience
 ======
 * March 2022 - August 2022
-  - Lab LIRIS, Ecole Centrale de Lyon, France
+  - Lab LIRIS, École Centrale de Lyon, France
   - Working on the data and study the state-of-the-art of 6D pose estimation
   - Supervisor: Liming Chen
   - [Report](https://yzong12138.github.io/files/PFE_6D.pdf)
