@@ -21,7 +21,7 @@ I have authored several papers published in international or french-speaking pro
 1. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
    **Yuxuan Zong**, Benjamin Piwowarski;   
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
-   Code and Paper: Coming soon...     
+   [pdf](https://arxiv.org/pdf/2504.12778) [code](https://github.com/yzong12138/MVDR_pruning)    
 2. **Structured representation for Information Retrieval**;      
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **CORIA 2024**: COnférence en Recherche d'Informations et Applications;     
@@ -81,6 +81,7 @@ Experience
   - Backend software development engineer
   - Departement TEG, Tencent, Shenzhen, China
   - Building configuration of the server, based on Python
+  - Mentor: Xiangtao LI
 
 * June 2020 - August 2020
   - Frontend software development engineer
