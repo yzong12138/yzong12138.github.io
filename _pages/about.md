@@ -35,15 +35,22 @@ I have authored several papers published in international or french-speaking pro
    **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
    [pdf](https://yzong12138.github.io/files/xpmir.pdf) [code](https://github.com/experimaestro/experimaestro-ir);    
 
-Teaching
+Teaching and Academic Service
 ======
 * Teaching assistant
   - Python, 2022; Sorbonne University; LU1IN001; project design, TP, TP grading
+* Program committee member
+  - ICTIR 2025
 
-Presentation
+Invited Talks & Presentation
 ======
 
-Coming soon...
+* Presentations
+  - Towards Lossless Token Pruning in Late-Interaction Retrieval Models
+    - At MLIA, ISIR: 12/05/2025, [post](https://www.linkedin.com/posts/mlia_after-a-short-break-during-easters-holidays-activity-7327665587516579840-Fryd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
+    - At CORIA-TALN: 02/07/2025, [post](https://www.linkedin.com/posts/ismailbadache_sigir-informationretrieval-activity-7346152553253941248-8YEU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
+    - At SIGIR: coming soon
+    - [Slides](https://yzong12138.github.io/files/sigir_present_slide.pdf)
 
 Resources
 ======
