@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxuan Zong, a final-year Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Graduation expected in October 2025. 
+I am Yuxuan Zong, a final-year Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Graduation expected in March 2026. 
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with the interaction of the Transformer-based models. 
 
@@ -49,7 +49,7 @@ Invited Talks & Presentation
   - Towards Lossless Token Pruning in Late-Interaction Retrieval Models
     - At MLIA, ISIR: 12/05/2025, [post](https://www.linkedin.com/posts/mlia_after-a-short-break-during-easters-holidays-activity-7327665587516579840-Fryd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
     - At CORIA-TALN: 02/07/2025, [post](https://www.linkedin.com/posts/ismailbadache_sigir-informationretrieval-activity-7346152553253941248-8YEU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
-    - At SIGIR: coming soon
+    - At SIGIR
     - [Slides](https://yzong12138.github.io/files/sigir_present_slide.pdf)
 
 Resources
