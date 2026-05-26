@@ -19,17 +19,17 @@ Publications
 ======
 
 I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, EACL. 
-1. **From Tokens to Concepts: Leveraging SAE for SPLADE**
-   **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;
-   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
+1. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
+   **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;     
+   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
    [pdf](https://arxiv.org/pdf/2604.21511) [code](https://github.com/yzong12138/sae_splade)
-2. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**
-   Yash Kankanampati, **Yuxuan Zong**, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux;
-   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
+2. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**     
+   Yash Kankanampati, **Yuxuan Zong**, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux;     
+   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
    [pdf](https://arxiv.org/pdf/2603.09933) [code](https://github.com/yash-reddy/voronoi-pruning)
-3. **QueStER: Query Specification for Generative keyword-based Retrieval**
-   Arthur Satouf, **Yuxuan Zong**, Habiboulaye Amadou-Boubacar, Pablo Piantanida, Benjamin Piwowarski;
-   **EACL 2026**: The 19th Conference of the European Chapter of the Association for Computational Linguistics;
+3. **QueStER: Query Specification for Generative keyword-based Retrieval**     
+   Arthur Satouf, **Yuxuan Zong**, Habiboulaye Amadou-Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
+   **EACL 2026**: The 19th Conference of the European Chapter of the Association for Computational Linguistics;     
    [pdf](https://arxiv.org/abs/2511.05301) [code](https://github.com/arthur-75/quester)
 4. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
    **Yuxuan Zong**, Benjamin Piwowarski;   
@@ -60,13 +60,16 @@ Invited Talks & Presentation
 ======
 
 * Presentations
-  - Towards Efficient and Effective Vocabulary in Sparse Information Retrieval
-    - At LIPN: 13/04/2026
   - Towards Lossless Token Pruning in Late-Interaction Retrieval Models
     - At MLIA, ISIR: 12/05/2025, [post](https://www.linkedin.com/posts/mlia_after-a-short-break-during-easters-holidays-activity-7327665587516579840-Fryd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
     - At CORIA-TALN: 02/07/2025, [post](https://www.linkedin.com/posts/ismailbadache_sigir-informationretrieval-activity-7346152553253941248-8YEU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
     - At SIGIR
     - [Slides](https://yzong12138.github.io/files/sigir_present_slide.pdf)
+
+* Invited Talks
+  - Towards Efficient and Effective Vocabulary in Sparse Information Retrieval
+    - At LIPN: 13/04/2026 
+
 
 Resources
 ======
