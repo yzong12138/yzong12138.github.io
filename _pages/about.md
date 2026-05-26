@@ -13,24 +13,37 @@ I am interested in information retrieval (IR) and natural language processing (N
 
 [Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369)
 
+**Open to job opportunities — feel free to reach out.**
+
 Publications
 ======
 
-I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, CORIA. 
-
-1. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
+I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, EACL. 
+1. **From Tokens to Concepts: Leveraging SAE for SPLADE**
+   **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;
+   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
+   [pdf](https://arxiv.org/pdf/2604.21511) [code](https://github.com/yzong12138/sae_splade)
+2. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**
+   Yash Kankanampati, **Yuxuan Zong**, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux;
+   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
+   [pdf](https://arxiv.org/pdf/2603.09933) [code](https://github.com/yash-reddy/voronoi-pruning)
+3. **QueStER: Query Specification for Generative keyword-based Retrieval**
+   Arthur Satouf, **Yuxuan Zong**, Habiboulaye Amadou-Boubacar, Pablo Piantanida, Benjamin Piwowarski;
+   **EACL 2026**: The 19th Conference of the European Chapter of the Association for Computational Linguistics;
+   [pdf](https://arxiv.org/abs/2511.05301) [code](https://github.com/arthur-75/quester)
+4. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
    **Yuxuan Zong**, Benjamin Piwowarski;   
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
    [pdf](https://arxiv.org/pdf/2504.12778) [code](https://github.com/yzong12138/MVDR_pruning)    
-2. **Structured representation for Information Retrieval**;      
+5. **Structured representation for Information Retrieval**;      
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **CORIA 2024**: COnférence en Recherche d'Informations et Applications;     
    [pdf](https://hal.sorbonne-universite.fr/hal-04788243v1/document)      
-3. **Simple Domain Adaptation for Sparse Retrievers**;     
+6. **Simple Domain Adaptation for Sparse Retrievers**;     
    Mathias Vast, **Yuxuan Zong**, Benjamin Piwowarski, Laure Soulier;      
    **ECIR 2024**: The 46th European Conference on Information Retrieval;     
    [pdf](https://arxiv.org/pdf/2401.11509v1) [code](https://git.isir.upmc.fr/mat_vast/cross_domain_adaptation);      
-4. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
+7. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
    [pdf](https://yzong12138.github.io/files/xpmir.pdf) [code](https://github.com/experimaestro/experimaestro-ir);    
@@ -41,11 +54,14 @@ Teaching and Academic Service
   - Python, 2022; Sorbonne University; LU1IN001; project design, TP, TP grading
 * Program committee member
   - ICTIR 2025
+  - SIGIR 2025, 2026
 
 Invited Talks & Presentation
 ======
 
 * Presentations
+  - Towards Efficient and Effective Vocabulary in Sparse Information Retrieval
+    - At LIPN: 13/04/2026
   - Towards Lossless Token Pruning in Late-Interaction Retrieval Models
     - At MLIA, ISIR: 12/05/2025, [post](https://www.linkedin.com/posts/mlia_after-a-short-break-during-easters-holidays-activity-7327665587516579840-Fryd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
     - At CORIA-TALN: 02/07/2025, [post](https://www.linkedin.com/posts/ismailbadache_sigir-informationretrieval-activity-7346152553253941248-8YEU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
