@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxuan Zong, a final-year Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Graduation expected in March 2026. 
+I am Yuxuan Zong, a final-year Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with the interaction of the Transformer-based models. 
 
