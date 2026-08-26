@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxuan Zong, a final-year Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
+I am Yuxuan Zong, a recent graduated Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with the interaction of the Transformer-based models. 
 
-[Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369)
+[Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369)
 
 **Open to job opportunities — feel free to reach out.**
 
@@ -19,31 +19,35 @@ Publications
 ======
 
 I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, EACL. 
-1. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
+1. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**
+   Arthur Satouf, Giulio D'Erasmo, **Yuxuan Zong**, Habiboulaye Amadou Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
+   **EMNLP 2026 (To appear)**: The 2026 Conference on Empirical Methods in Natural Language Processing;     
+   [pdf](https://arxiv.org/pdf/2606.10621) [code](https://github.com/arthur-75/storm)
+2. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
    **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;     
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
    [pdf](https://arxiv.org/pdf/2604.21511) [code](https://github.com/yzong12138/sae_splade)
-2. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**     
+3. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**     
    Yash Kankanampati, **Yuxuan Zong**, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux;     
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
    [pdf](https://arxiv.org/pdf/2603.09933) [code](https://github.com/yash-reddy/voronoi-pruning)
-3. **QueStER: Query Specification for Generative keyword-based Retrieval**     
+4. **QueStER: Query Specification for Generative keyword-based Retrieval**     
    Arthur Satouf, **Yuxuan Zong**, Habiboulaye Amadou-Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
    **EACL 2026**: The 19th Conference of the European Chapter of the Association for Computational Linguistics;     
    [pdf](https://arxiv.org/abs/2511.05301) [code](https://github.com/arthur-75/quester)
-4. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
+5. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
    **Yuxuan Zong**, Benjamin Piwowarski;   
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
    [pdf](https://arxiv.org/pdf/2504.12778) [code](https://github.com/yzong12138/MVDR_pruning)    
-5. **Structured representation for Information Retrieval**;      
+6. **Structured representation for Information Retrieval**;      
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **CORIA 2024**: COnférence en Recherche d'Informations et Applications;     
    [pdf](https://hal.sorbonne-universite.fr/hal-04788243v1/document)      
-6. **Simple Domain Adaptation for Sparse Retrievers**;     
+7. **Simple Domain Adaptation for Sparse Retrievers**;     
    Mathias Vast, **Yuxuan Zong**, Benjamin Piwowarski, Laure Soulier;      
    **ECIR 2024**: The 46th European Conference on Information Retrieval;     
    [pdf](https://arxiv.org/pdf/2401.11509v1) [code](https://git.isir.upmc.fr/mat_vast/cross_domain_adaptation);      
-7. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
+8. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
    [pdf](https://yzong12138.github.io/files/xpmir.pdf) [code](https://github.com/experimaestro/experimaestro-ir);    
@@ -84,7 +88,7 @@ I have also contributed to key open-source toolkits in IR, including:
 
 Education
 ======
-* October 2022 - Present
+* October 2022 - March 2026
   - Ph.D in Artificial Intelligence, Sorbonne University, France
   - Supervisor: [Benjamin Piwowarski](https://www.piwowarski.fr/)
 
