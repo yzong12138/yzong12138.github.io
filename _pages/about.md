@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxuan Zong, a recent graduated Ph.D. candidate in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
+I am Yuxuan Zong, a recent graduated Ph.D. in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with the interaction of the Transformer-based models. 
 
 [Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369)
 
-**Open to job opportunities — feel free to reach out.**
-
 Publications
 ======
 
 I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, EACL. 
-1. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**
+1. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**     
    Arthur Satouf, Giulio D'Erasmo, **Yuxuan Zong**, Habiboulaye Amadou Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
    **EMNLP 2026 (To appear)**: The 2026 Conference on Empirical Methods in Natural Language Processing;     
    [pdf](https://arxiv.org/pdf/2606.10621) [code](https://github.com/arthur-75/storm)
@@ -100,6 +98,8 @@ Education
 
 Experience
 ======
+* October 2026 - Present
+  - Comming Soon...
 * March 2022 - August 2022
   - Research Intern
   - Lab LIRIS, École Centrale de Lyon, France
@@ -108,13 +108,13 @@ Experience
   - [Report](https://yzong12138.github.io/files/PFE_6D.pdf)
 
 * June 2021 - August 2021
-  - Backend software development engineer
+  - Backend software development engineer intern
   - Departement TEG, Tencent, Shenzhen, China
   - Building configuration of the server, based on Python
   - Mentor: Xiangtao LI
 
 * June 2020 - August 2020
-  - Frontend software development engineer
+  - Frontend software development engineer intern
   - Migu, Nanjing, China
   - Building a mobile application destinate at the companies.
 
