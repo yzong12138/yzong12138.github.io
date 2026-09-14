@@ -11,7 +11,7 @@ I am Yuxuan Zong, a recent graduated Ph.D. in the Institut des Systèmes Intelli
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with the interaction of the Transformer-based models. 
 
-[Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369)
+[Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369) [X (formerly Twitter)](https://x.com/zongyuxuan3)
 
 Publications
 ======
@@ -24,19 +24,19 @@ I have authored several papers published in international or french-speaking pro
 2. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
    **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;     
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
-   [pdf](https://arxiv.org/pdf/2604.21511) [code](https://github.com/yzong12138/sae_splade)
+   [pdf](https://dl.acm.org/doi/10.1145/3805712.3809565) [code](https://github.com/yzong12138/sae_splade)
 3. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**     
    Yash Kankanampati, **Yuxuan Zong**, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux;     
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
-   [pdf](https://arxiv.org/pdf/2603.09933) [code](https://github.com/yash-reddy/voronoi-pruning)
+   [pdf](https://dl.acm.org/doi/10.1145/3805712.3809726) [code](https://github.com/yash-reddy/voronoi-pruning)
 4. **QueStER: Query Specification for Generative keyword-based Retrieval**     
    Arthur Satouf, **Yuxuan Zong**, Habiboulaye Amadou-Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
    **EACL 2026**: The 19th Conference of the European Chapter of the Association for Computational Linguistics;     
-   [pdf](https://arxiv.org/abs/2511.05301) [code](https://github.com/arthur-75/quester)
+   [pdf](https://aclanthology.org/2026.findings-eacl.312) [code](https://github.com/arthur-75/quester)
 5. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
    **Yuxuan Zong**, Benjamin Piwowarski;   
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
-   [pdf](https://arxiv.org/pdf/2504.12778) [code](https://github.com/yzong12138/MVDR_pruning)    
+   [pdf](https://dl.acm.org/doi/10.1145/3726302.3730100) [code](https://github.com/yzong12138/MVDR_pruning)    
 6. **Structured representation for Information Retrieval**;      
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **CORIA 2024**: COnférence en Recherche d'Informations et Applications;     
@@ -48,7 +48,7 @@ I have authored several papers published in international or french-speaking pro
 8. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
-   [pdf](https://yzong12138.github.io/files/xpmir.pdf) [code](https://github.com/experimaestro/experimaestro-ir);    
+   [pdf](https://dl.acm.org/doi/10.1145/3539618.3591818) [code](https://github.com/experimaestro/experimaestro-ir);    
 
 Teaching and Academic Service
 ======
