@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxuan Zong, a recent graduated Ph.D. in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
-
-I am interested in information retrieval (IR) and natural language processing (NLP) with the interaction of the Transformer-based models. 
+Hi there, I'm Yuxuan! I am a Machine Learning Engineer working at OpenSearch, AWS. My interests include training sparse and dense embedding models and designing their fine-tuning algorithms. I recently completed my Ph.D. in the Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne University (SU), supervised under [Benjamin Piwowarski](https://www.piwowarski.fr/). Prior to that, I obtained an Engineering Diploma in Computer Engineering from INSA Lyon.
 
 [Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369) [X (formerly Twitter)](https://x.com/zongyuxuan3)
 
 Publications
 ======
 
-I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval, such as SIGIR, ECIR, EACL. 
+I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval. 
 1. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**     
    Arthur Satouf, Giulio D'Erasmo, **Yuxuan Zong**, Habiboulaye Amadou Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
    **EMNLP 2026 (To appear)**: The 2026 Conference on Empirical Methods in Natural Language Processing;     
@@ -57,6 +55,7 @@ Teaching and Academic Service
 * Program committee member
   - ICTIR 2025
   - SIGIR 2025, 2026
+  - ECIR 2027
 
 Invited Talks & Presentation
 ======
@@ -65,12 +64,15 @@ Invited Talks & Presentation
   - Towards Lossless Token Pruning in Late-Interaction Retrieval Models
     - At MLIA, ISIR: 12/05/2025, [post](https://www.linkedin.com/posts/mlia_after-a-short-break-during-easters-holidays-activity-7327665587516579840-Fryd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
     - At CORIA-TALN: 02/07/2025, [post](https://www.linkedin.com/posts/ismailbadache_sigir-informationretrieval-activity-7346152553253941248-8YEU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSoPsMBbdKCgH9Pr3dWWWrlCVGCxRV_zYY)
-    - At SIGIR
+    - At SIGIR: 15/07/2026
     - [Slides](https://yzong12138.github.io/files/sigir_present_slide.pdf)
+  - From Tokens to Concepts: Leveraging SAE for SPLADE
+    - At CORIA-TALN: 23/06/2026
+    - At SIGIR: 23/07/2026
 
 * Invited Talks
   - Towards Efficient and Effective Vocabulary in Sparse Information Retrieval
-    - At LIPN: 13/04/2026 
+    - At LIPN: 13/04/2026 (Thanks the invitation from Yash and Tian!)
 
 
 Resources
@@ -99,7 +101,8 @@ Education
 Experience
 ======
 * October 2026 - Present
-  - Comming Soon...
+  - Machine Learning Engineer, OpenSearch, AWS
+  
 * March 2022 - August 2022
   - Research Intern
   - Lab LIRIS, École Centrale de Lyon, France
@@ -120,5 +123,7 @@ Experience
 
 Contact
 =======
-* Working email: yuxuan.zong AT isir.upmc.fr
+* Working email: 
+  - yuxuan.zong AT isir.upmc.fr (deprecated soon sadly >3)
+  - beauzong AT amazon.com
 * Personal email: zongyuxuaner AT gmail.com
