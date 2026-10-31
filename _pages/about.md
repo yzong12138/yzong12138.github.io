@@ -21,7 +21,7 @@ I have authored several papers published in international or french-speaking pro
    [pdf](https://arxiv.org/pdf/2610.31932) [code](https://github.com/xpmir/mice)
 2. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**     
    Arthur Satouf, Giulio D'Erasmo, **Yuxuan Zong**, Habiboulaye Amadou Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
-   **EMNLP 2026 (To appear)**: The 2026 Conference on Empirical Methods in Natural Language Processing;     
+   **EMNLP 2026**: The 2026 Conference on Empirical Methods in Natural Language Processing;     
    [pdf](https://aclanthology.org/2026.emnlp-main.2149/) [code](https://github.com/arthur-75/storm)
 3. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
    **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;     
