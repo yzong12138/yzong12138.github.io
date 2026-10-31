@@ -11,42 +11,49 @@ Hi there, I'm Yuxuan! I am a Machine Learning Engineer working at OpenSearch, AW
 
 [Google Scholar](https://scholar.google.com/citations?user=c4TcAD0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/yuxuan-zong-943a42207/) [ORCID](https://orcid.org/my-orcid?orcid=0009-0002-0376-1369) [X (formerly Twitter)](https://x.com/zongyuxuan3)
 
-Publications
+Publications and Blogs
 ======
 
-I have authored several papers published in international or french-speaking proceedings, mainly focus on Infornmation Retrieval. 
-1. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**     
+I have authored several papers published in international or french-speaking proceedings, mainly focus on Information Retrieval. 
+1. **MICE to Meet You: From Re-ranking Only to End-to-End Retrieval**     
+   Victor Morand, **Yuxuan Zong**, Mathias Vast, Josiane Mothe, Benjamin Piwowarski     
+   **Under Review**     
+   [pdf](https://arxiv.org/pdf/2610.31932) [code](https://github.com/xpmir/mice)
+2. **STORM: Stepwise Token Optimization with Reward-Guided Beam Search**     
    Arthur Satouf, Giulio D'Erasmo, **Yuxuan Zong**, Habiboulaye Amadou Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
    **EMNLP 2026 (To appear)**: The 2026 Conference on Empirical Methods in Natural Language Processing;     
-   [pdf](https://arxiv.org/pdf/2606.10621) [code](https://github.com/arthur-75/storm)
-2. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
+   [pdf](https://aclanthology.org/2026.emnlp-main.2149/) [code](https://github.com/arthur-75/storm)
+3. **From Tokens to Concepts: Leveraging SAE for SPLADE**     
    **Yuxuan Zong**, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski;     
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
    [pdf](https://dl.acm.org/doi/10.1145/3805712.3809565) [code](https://github.com/yzong12138/sae_splade)
-3. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**     
+4. **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**     
    Yash Kankanampati, **Yuxuan Zong**, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux;     
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval;          
    [pdf](https://dl.acm.org/doi/10.1145/3805712.3809726) [code](https://github.com/yash-reddy/voronoi-pruning)
-4. **QueStER: Query Specification for Generative keyword-based Retrieval**     
+5. **QueStER: Query Specification for Generative keyword-based Retrieval**     
    Arthur Satouf, **Yuxuan Zong**, Habiboulaye Amadou-Boubacar, Pablo Piantanida, Benjamin Piwowarski;     
    **EACL 2026**: The 19th Conference of the European Chapter of the Association for Computational Linguistics;     
    [pdf](https://aclanthology.org/2026.findings-eacl.312) [code](https://github.com/arthur-75/quester)
-5. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
+6. **Towards Lossless Token Pruning in Late-Interaction Retrieval Models**;    
    **Yuxuan Zong**, Benjamin Piwowarski;   
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
    [pdf](https://dl.acm.org/doi/10.1145/3726302.3730100) [code](https://github.com/yzong12138/MVDR_pruning)    
-6. **Structured representation for Information Retrieval**;      
+7. **Structured representation for Information Retrieval**;      
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **CORIA 2024**: COnférence en Recherche d'Informations et Applications;     
    [pdf](https://hal.sorbonne-universite.fr/hal-04788243v1/document)      
-7. **Simple Domain Adaptation for Sparse Retrievers**;     
+8. **Simple Domain Adaptation for Sparse Retrievers**;     
    Mathias Vast, **Yuxuan Zong**, Benjamin Piwowarski, Laure Soulier;      
    **ECIR 2024**: The 46th European Conference on Information Retrieval;     
    [pdf](https://arxiv.org/pdf/2401.11509v1) [code](https://git.isir.upmc.fr/mat_vast/cross_domain_adaptation);      
-8. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
+9. **XpmIR: A Modular Library for Learning to Rank and Neural IR Experiments**;     
    **Yuxuan Zong**, Benjamin Piwowarski;     
    **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval;     
-   [pdf](https://dl.acm.org/doi/10.1145/3539618.3591818) [code](https://github.com/experimaestro/experimaestro-ir);    
+   [pdf](https://dl.acm.org/doi/10.1145/3539618.3591818) [code](https://github.com/experimaestro/experimaestro-ir);
+
+Meanwhile, I have also drafted some technical blogs:    
+1. [NVIDIA Nemotron embeddings for agentic search in OpenSearch](https://opensearch.org/blog/nvidia-nemotron-embeddings-for-agentic-search-in-opensearch/)
 
 Teaching and Academic Service
 ======
@@ -77,6 +84,8 @@ Invited Talks & Presentation
 
 Resources
 ======
+
+**Outdated, please check my github for more details**
 
 I have participated in creating the following resources: 
 * [XpmIR](https://github.com/experimaestro/experimaestro-ir) providing components for launching basic IR experiments, based on [experimaestro](https://github.com/experimaestro/experimaestro-python).
